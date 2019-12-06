@@ -16,6 +16,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/
-.out/
+out/
 *.iml
 *.class
